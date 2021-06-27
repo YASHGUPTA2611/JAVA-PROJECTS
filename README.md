@@ -6,7 +6,7 @@ Enjoy😀
 
 ### 1.) Factorial 1 :- 
 
-This is a simple java program to find the factorical of a given number using while loop.
+This is a simple java program to find the factorical of a given number using for loop.
 
 ### 2.) Rock, Paper and Scissor :- 
 
