@@ -14,7 +14,7 @@ I made a java program on the famous Rock, Paper and Scissor game.
 
 ### 3.) Reversing an Array :-
 
-An Array has been reversed using simple for loop.
+An Array has been reversed using Swap method and simple for loop.
 
 ### 4.) Factorial 2 :-
 
