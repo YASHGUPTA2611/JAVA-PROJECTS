@@ -19,3 +19,7 @@ An Array has been reversed using Swap method and simple for loop.
 ### 4.) Factorial 2 :-
 
 A java program is made to find Factorial using Recursion.
+
+### 5.) Fibonacci series :-
+
+I made a Java program on the concept of Fibonacci series, in which a given number is the sum of previous two numbers.
