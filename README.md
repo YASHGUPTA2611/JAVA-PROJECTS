@@ -16,7 +16,7 @@ I made a java program on the famous Rock, Paper and Scissor game.
 
 An Array has been reversed using Swap method and simple for loop.
 
-### 4.) Factorial 2 :-
+### 4.) Recursion :-
 
 A java program is made to find Factorial using Recursion.
 
